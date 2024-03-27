@@ -8,7 +8,7 @@ Introducing Recipe Finder! This project is a dynamic and mobile-friendly applica
 
 ## Project Links
 
-- GitHub: [Recepie Radar -Web Version (React)](https://github.com/AdityaDhotre/Recipe-Finder-App)
+- GitHub: [Recepie Radar -App Version (React)](https://github.com/AdityaDhotre/Recipe-Finder-App)
 
 ## Table of Contents
 
